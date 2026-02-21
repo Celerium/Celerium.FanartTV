@@ -260,9 +260,6 @@ function Add-FanartTVAPIKey {
 
     .LINK
         https://celerium.github.io/Celerium.FanartTV/site/Internal/Add-FanartTVAPIKey.html
-
-    .LINK
-        https://api.fanart.tv/#section/Fanart.tv-API-Documentation/Authentication
 #>
 
     [CmdletBinding()]
@@ -309,7 +306,7 @@ function Add-FanartTVAPIKey {
     end {}
 
 }
-#EndRegion '.\Private\ApiKeys\Add-FanartTVAPIKey.ps1' 88
+#EndRegion '.\Private\ApiKeys\Add-FanartTVAPIKey.ps1' 85
 #Region '.\Private\ApiKeys\Get-FanartTVAPIKey.ps1' -1
 
 function Get-FanartTVAPIKey {
@@ -499,9 +496,6 @@ function Add-FanartTVBaseURI {
 
     .LINK
         https://celerium.github.io/Celerium.FanartTV/site/Internal/Add-FanartTVBaseURI.html
-
-    .LINK
-        https://api.fanart.tv/#section/Fanart.tv-API-Documentation
 #>
 
     [CmdletBinding(DefaultParameterSetName = 'Set')]
@@ -529,7 +523,7 @@ function Add-FanartTVBaseURI {
     }
 
 }
-#EndRegion '.\Private\BaseUri\Add-FanartTVBaseURI.ps1' 73
+#EndRegion '.\Private\BaseUri\Add-FanartTVBaseURI.ps1' 70
 #Region '.\Private\BaseUri\Get-FanartTVBaseURI.ps1' -1
 
 function Get-FanartTVBaseURI {
@@ -1066,9 +1060,6 @@ function Get-FanartTVLatest {
 
     .LINK
         https://celerium.github.io/Celerium.FanartTV/site/Latest/Get-FanartTVLatest.html
-
-    .LINK
-        https://api.fanart.tv/#tag/Latest
 #>
 
     [CmdletBinding(DefaultParameterSetName = 'Index')]
@@ -1108,7 +1099,7 @@ function Get-FanartTVLatest {
     end {}
 
 }
-#EndRegion '.\Public\Latest\Get-FanartTVLatest.ps1' 87
+#EndRegion '.\Public\Latest\Get-FanartTVLatest.ps1' 84
 #Region '.\Public\Movies\Get-FanartTVMovie.ps1' -1
 
 function Get-FanartTVMovie {
@@ -1137,9 +1128,6 @@ function Get-FanartTVMovie {
 
     .LINK
         https://celerium.github.io/Celerium.FanartTV/site/Movies/Get-FanartTVMovie.html
-
-    .LINK
-        https://api.fanart.tv/#tag/Movies/operation/getMovie
 #>
 
     [CmdletBinding(DefaultParameterSetName = 'Index')]
@@ -1167,7 +1155,7 @@ function Get-FanartTVMovie {
     end {}
 
 }
-#EndRegion '.\Public\Movies\Get-FanartTVMovie.ps1' 57
+#EndRegion '.\Public\Movies\Get-FanartTVMovie.ps1' 54
 #Region '.\Public\Music\Get-FanartTVMusic.ps1' -1
 
 function Get-FanartTVMusic {
@@ -1215,9 +1203,6 @@ function Get-FanartTVMusic {
 
     .LINK
         https://celerium.github.io/Celerium.FanartTV/site/Music/Get-FanartTVMusic.html
-
-    .LINK
-        https://api.fanart.tv/#tag/Music
 #>
 
     [CmdletBinding(DefaultParameterSetName = 'Index')]
@@ -1253,7 +1238,7 @@ function Get-FanartTVMusic {
     end {}
 
 }
-#EndRegion '.\Public\Music\Get-FanartTVMusic.ps1' 84
+#EndRegion '.\Public\Music\Get-FanartTVMusic.ps1' 81
 #Region '.\Public\TVShows\Get-FanartTVShow.ps1' -1
 
 function Get-FanartTVShow {
@@ -1280,10 +1265,7 @@ function Get-FanartTVShow {
         N/A
 
     .LINK
-        https://celerium.github.io/Celerium.FanartTV/site/TVShows/Get-FanartTVShow.html
-
-    .LINK
-        https://api.fanart.tv/#tag/TV-Shows/operation/getTVShow
+        https://celerium.github.io/Celerium.FanartTV/site/TV Shows/Get-FanartTVShow.html
 #>
 
     [CmdletBinding(DefaultParameterSetName = 'Index')]
@@ -1311,4 +1293,4 @@ function Get-FanartTVShow {
     end {}
 
 }
-#EndRegion '.\Public\TVShows\Get-FanartTVShow.ps1' 56
+#EndRegion '.\Public\TVShows\Get-FanartTVShow.ps1' 53

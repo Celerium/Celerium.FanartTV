@@ -102,5 +102,3 @@ N/A
 
 [https://celerium.github.io/Celerium.FanartTV/site/Music/Get-FanartTVMusic.html](https://celerium.github.io/Celerium.FanartTV/site/Music/Get-FanartTVMusic.html)
 
-[https://api.fanart.tv/#tag/Music](https://api.fanart.tv/#tag/Music)
-

@@ -94,5 +94,3 @@ N/A
 
 [https://celerium.github.io/Celerium.FanartTV/site/Internal/Add-FanartTVAPIKey.html](https://celerium.github.io/Celerium.FanartTV/site/Internal/Add-FanartTVAPIKey.html)
 
-[https://api.fanart.tv/#section/Fanart.tv-API-Documentation/Authentication](https://api.fanart.tv/#section/Fanart.tv-API-Documentation/Authentication)
-

@@ -67,5 +67,3 @@ N/A
 
 [https://celerium.github.io/Celerium.FanartTV/site/Movies/Get-FanartTVMovie.html](https://celerium.github.io/Celerium.FanartTV/site/Movies/Get-FanartTVMovie.html)
 
-[https://api.fanart.tv/#tag/Movies/operation/getMovie](https://api.fanart.tv/#tag/Movies/operation/getMovie)
-

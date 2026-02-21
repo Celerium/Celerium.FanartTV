@@ -99,5 +99,3 @@ N/A
 
 [https://celerium.github.io/Celerium.FanartTV/site/Latest/Get-FanartTVLatest.html](https://celerium.github.io/Celerium.FanartTV/site/Latest/Get-FanartTVLatest.html)
 
-[https://api.fanart.tv/#tag/Latest](https://api.fanart.tv/#tag/Latest)
-

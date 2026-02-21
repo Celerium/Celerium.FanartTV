@@ -64,7 +64,5 @@ N/A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/Celerium.FanartTV/site/TVShows/Get-FanartTVShow.html](https://celerium.github.io/Celerium.FanartTV/site/TVShows/Get-FanartTVShow.html)
-
-[https://api.fanart.tv/#tag/TV-Shows/operation/getTVShow](https://api.fanart.tv/#tag/TV-Shows/operation/getTVShow)
+[https://celerium.github.io/Celerium.FanartTV/site/TV Shows/Get-FanartTVShow.html](https://celerium.github.io/Celerium.FanartTV/site/TV Shows/Get-FanartTVShow.html)
 

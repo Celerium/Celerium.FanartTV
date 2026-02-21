@@ -98,10 +98,6 @@
         <maml:linkText>https://celerium.github.io/Celerium.FanartTV/site/Internal/Add-FanartTVAPIKey.html</maml:linkText>
         <maml:uri>https://celerium.github.io/Celerium.FanartTV/site/Internal/Add-FanartTVAPIKey.html</maml:uri>
       </maml:navigationLink>
-      <maml:navigationLink>
-        <maml:linkText>https://api.fanart.tv/#section/Fanart.tv-API-Documentation/Authentication</maml:linkText>
-        <maml:uri>https://api.fanart.tv/#section/Fanart.tv-API-Documentation/Authentication</maml:uri>
-      </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
   <command:command xmlns:maml="http://schemas.microsoft.com/maml/2004/10" xmlns:command="http://schemas.microsoft.com/maml/dev/command/2004/10" xmlns:dev="http://schemas.microsoft.com/maml/dev/2004/10" xmlns:MSHelp="http://msdn.microsoft.com/mshelp">
@@ -211,10 +207,6 @@
       <maml:navigationLink>
         <maml:linkText>https://celerium.github.io/Celerium.FanartTV/site/Internal/Add-FanartTVBaseURI.html</maml:linkText>
         <maml:uri>https://celerium.github.io/Celerium.FanartTV/site/Internal/Add-FanartTVBaseURI.html</maml:uri>
-      </maml:navigationLink>
-      <maml:navigationLink>
-        <maml:linkText>https://api.fanart.tv/#section/Fanart.tv-API-Documentation</maml:linkText>
-        <maml:uri>https://api.fanart.tv/#section/Fanart.tv-API-Documentation</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -1330,10 +1322,6 @@
         <maml:linkText>https://celerium.github.io/Celerium.FanartTV/site/Latest/Get-FanartTVLatest.html</maml:linkText>
         <maml:uri>https://celerium.github.io/Celerium.FanartTV/site/Latest/Get-FanartTVLatest.html</maml:uri>
       </maml:navigationLink>
-      <maml:navigationLink>
-        <maml:linkText>https://api.fanart.tv/#tag/Latest</maml:linkText>
-        <maml:uri>https://api.fanart.tv/#tag/Latest</maml:uri>
-      </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
   <command:command xmlns:maml="http://schemas.microsoft.com/maml/2004/10" xmlns:command="http://schemas.microsoft.com/maml/dev/command/2004/10" xmlns:dev="http://schemas.microsoft.com/maml/dev/2004/10" xmlns:MSHelp="http://msdn.microsoft.com/mshelp">
@@ -1401,10 +1389,6 @@
       <maml:navigationLink>
         <maml:linkText>https://celerium.github.io/Celerium.FanartTV/site/Movies/Get-FanartTVMovie.html</maml:linkText>
         <maml:uri>https://celerium.github.io/Celerium.FanartTV/site/Movies/Get-FanartTVMovie.html</maml:uri>
-      </maml:navigationLink>
-      <maml:navigationLink>
-        <maml:linkText>https://api.fanart.tv/#tag/Movies/operation/getMovie</maml:linkText>
-        <maml:uri>https://api.fanart.tv/#tag/Movies/operation/getMovie</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -1514,10 +1498,6 @@
         <maml:linkText>https://celerium.github.io/Celerium.FanartTV/site/Music/Get-FanartTVMusic.html</maml:linkText>
         <maml:uri>https://celerium.github.io/Celerium.FanartTV/site/Music/Get-FanartTVMusic.html</maml:uri>
       </maml:navigationLink>
-      <maml:navigationLink>
-        <maml:linkText>https://api.fanart.tv/#tag/Music</maml:linkText>
-        <maml:uri>https://api.fanart.tv/#tag/Music</maml:uri>
-      </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
   <command:command xmlns:maml="http://schemas.microsoft.com/maml/2004/10" xmlns:command="http://schemas.microsoft.com/maml/dev/command/2004/10" xmlns:dev="http://schemas.microsoft.com/maml/dev/2004/10" xmlns:MSHelp="http://msdn.microsoft.com/mshelp">
@@ -1583,16 +1563,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>Online Version:</maml:linkText>
+        <maml:linkText>https://celerium.github.io/Celerium.FanartTV/site/TV Shows/Get-FanartTVShow.html</maml:linkText>
         <maml:uri>https://celerium.github.io/Celerium.FanartTV/site/TV Shows/Get-FanartTVShow.html</maml:uri>
-      </maml:navigationLink>
-      <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/Celerium.FanartTV/site/TVShows/Get-FanartTVShow.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/Celerium.FanartTV/site/TVShows/Get-FanartTVShow.html</maml:uri>
-      </maml:navigationLink>
-      <maml:navigationLink>
-        <maml:linkText>https://api.fanart.tv/#tag/TV-Shows/operation/getTVShow</maml:linkText>
-        <maml:uri>https://api.fanart.tv/#tag/TV-Shows/operation/getTVShow</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>

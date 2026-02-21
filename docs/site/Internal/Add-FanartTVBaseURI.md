@@ -100,5 +100,3 @@ N/A
 
 [https://celerium.github.io/Celerium.FanartTV/site/Internal/Add-FanartTVBaseURI.html](https://celerium.github.io/Celerium.FanartTV/site/Internal/Add-FanartTVBaseURI.html)
 
-[https://api.fanart.tv/#section/Fanart.tv-API-Documentation](https://api.fanart.tv/#section/Fanart.tv-API-Documentation)
-
