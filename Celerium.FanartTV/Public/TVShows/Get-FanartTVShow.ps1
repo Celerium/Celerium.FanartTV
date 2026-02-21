@@ -22,10 +22,7 @@ function Get-FanartTVShow {
         N/A
 
     .LINK
-        https://celerium.github.io/Celerium.FanartTV/site/TVShows/Get-FanartTVShow.html
-
-    .LINK
-        https://api.fanart.tv/#tag/TV-Shows/operation/getTVShow
+        https://celerium.github.io/Celerium.FanartTV/site/TV Shows/Get-FanartTVShow.html
 #>
 
     [CmdletBinding(DefaultParameterSetName = 'Index')]

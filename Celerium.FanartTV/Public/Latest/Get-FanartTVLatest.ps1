@@ -42,9 +42,6 @@ function Get-FanartTVLatest {
 
     .LINK
         https://celerium.github.io/Celerium.FanartTV/site/Latest/Get-FanartTVLatest.html
-
-    .LINK
-        https://api.fanart.tv/#tag/Latest
 #>
 
     [CmdletBinding(DefaultParameterSetName = 'Index')]

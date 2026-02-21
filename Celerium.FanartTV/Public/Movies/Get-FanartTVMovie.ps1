@@ -24,9 +24,6 @@ function Get-FanartTVMovie {
 
     .LINK
         https://celerium.github.io/Celerium.FanartTV/site/Movies/Get-FanartTVMovie.html
-
-    .LINK
-        https://api.fanart.tv/#tag/Movies/operation/getMovie
 #>
 
     [CmdletBinding(DefaultParameterSetName = 'Index')]

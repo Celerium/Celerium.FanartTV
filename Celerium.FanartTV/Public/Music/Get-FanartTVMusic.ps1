@@ -43,9 +43,6 @@ function Get-FanartTVMusic {
 
     .LINK
         https://celerium.github.io/Celerium.FanartTV/site/Music/Get-FanartTVMusic.html
-
-    .LINK
-        https://api.fanart.tv/#tag/Music
 #>
 
     [CmdletBinding(DefaultParameterSetName = 'Index')]

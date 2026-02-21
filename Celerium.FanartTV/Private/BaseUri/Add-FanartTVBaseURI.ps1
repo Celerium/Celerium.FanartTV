@@ -40,9 +40,6 @@ function Add-FanartTVBaseURI {
 
     .LINK
         https://celerium.github.io/Celerium.FanartTV/site/Internal/Add-FanartTVBaseURI.html
-
-    .LINK
-        https://api.fanart.tv/#section/Fanart.tv-API-Documentation
 #>
 
     [CmdletBinding(DefaultParameterSetName = 'Set')]

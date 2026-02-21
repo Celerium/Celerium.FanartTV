@@ -36,9 +36,6 @@ function Add-FanartTVAPIKey {
 
     .LINK
         https://celerium.github.io/Celerium.FanartTV/site/Internal/Add-FanartTVAPIKey.html
-
-    .LINK
-        https://api.fanart.tv/#section/Fanart.tv-API-Documentation/Authentication
 #>
 
     [CmdletBinding()]
