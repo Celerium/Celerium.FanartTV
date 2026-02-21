@@ -1,6 +1,6 @@
 ﻿Category,EndpointUri,Method,Function,Example,Complete,Notes
 Movies,/{version}/movies/{id},GET,Get-FanartTVMovie,N/A,Yes,
-TV Shows,/{version}/tv/{id},GET,Get-FanartTVShow,N/A,Yes,
+TVShows,/{version}/tv/{id},GET,Get-FanartTVShow,N/A,Yes,
 Music,/{version}/music/{id},GET,Get-FanartTVMusic,N/A,Yes,
 Music,/{version}/music/albums/{id},GET,Get-FanartTVMusic,N/A,Yes,
 Music,/{version}/music/labels/{id},GET,Get-FanartTVMusic,N/A,Yes,

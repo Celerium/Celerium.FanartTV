@@ -42,7 +42,7 @@ Retrieve all available fanart images for a specific movie
 ### [Get-FanartTVMusic](site/Music/Get-FanartTVMusic.md)
 Retrieve all available music artist and album images
 
-### [Get-FanartTVShow](site/TV Shows/Get-FanartTVShow.md)
+### [Get-FanartTVShow](site/TVShows/Get-FanartTVShow.md)
 Retrieve all available fanart images for a specific TV Show
 
 ### [Import-FanartTVModuleSettings](site/Internal/Import-FanartTVModuleSettings.md)

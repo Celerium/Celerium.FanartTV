@@ -1,5 +1,5 @@
 ---
 title: POST
-parent: TV Shows
+parent: TVShows
 has_children: true
 ---

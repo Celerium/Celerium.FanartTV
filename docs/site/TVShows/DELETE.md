@@ -1,5 +1,5 @@
 ---
 title: DELETE
-parent: TV Shows
+parent: TVShows
 has_children: true
 ---

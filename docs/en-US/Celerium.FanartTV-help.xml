@@ -1563,8 +1563,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/Celerium.FanartTV/site/TV Shows/Get-FanartTVShow.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/Celerium.FanartTV/site/TV Shows/Get-FanartTVShow.html</maml:uri>
+        <maml:linkText>https://celerium.github.io/Celerium.FanartTV/site/TVShows/Get-FanartTVShow.html</maml:linkText>
+        <maml:uri>https://celerium.github.io/Celerium.FanartTV/site/TVShows/Get-FanartTVShow.html</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>

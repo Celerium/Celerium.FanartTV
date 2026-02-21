@@ -1,8 +1,8 @@
 ---
 external help file: Celerium.FanartTV-help.xml
-grand_parent: TV Shows
+grand_parent: TVShows
 Module Name: Celerium.FanartTV
-online version: https://celerium.github.io/Celerium.FanartTV/site/TV Shows/Get-FanartTVShow.html
+online version: https://celerium.github.io/Celerium.FanartTV/site/TVShows/Get-FanartTVShow.html
 parent: GET
 schema: 2.0.0
 title: Get-FanartTVShow
@@ -64,5 +64,5 @@ N/A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/Celerium.FanartTV/site/TV Shows/Get-FanartTVShow.html](https://celerium.github.io/Celerium.FanartTV/site/TV Shows/Get-FanartTVShow.html)
+[https://celerium.github.io/Celerium.FanartTV/site/TVShows/Get-FanartTVShow.html](https://celerium.github.io/Celerium.FanartTV/site/TVShows/Get-FanartTVShow.html)
 

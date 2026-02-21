@@ -1,9 +1,9 @@
 ---
-title: TV Shows
+title: TVShows
 has_children: true
 ---
 
-## TV Shows - endpoint help & documentation
+## TVShows - endpoint help & documentation
 
 {: .highlight }
 Some functions will handle more than one endpoint and the numbers below show the total endpoints **not** the total functions
