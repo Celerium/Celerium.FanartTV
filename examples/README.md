@@ -4,4 +4,4 @@ A place for FanartTV's user community to learn ways of automating their document
 
 FanartTV API documentation:
 
-- [Developer Documentation](https://rmm.datto.com/help/en/Content/2SETUP/APIv2.htm)
+- [Developer Documentation](https://api.fanart.tv/#section/Fanart.tv-API-Documentation)
