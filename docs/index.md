@@ -171,8 +171,8 @@ Distributed under the MIT license. See [LICENSE](https://github.com/Celerium/Cel
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[Az_Pipeline-shield]:               https://img.shields.io/azure-devops/build/AzCelerium/Celerium.FanartTV/12?style=for-the-badge&label=DevOps_Build
-[Az_Pipeline-url]:                  https://dev.azure.com/AzCelerium/Celerium.FanartTV/_build?definitionId=12
+[Az_Pipeline-shield]:               https://img.shields.io/azure-devops/build/AzCelerium/Celerium.FanartTV/16?style=for-the-badge&label=DevOps_Build
+[Az_Pipeline-url]:                  https://dev.azure.com/AzCelerium/Celerium.FanartTV/_build?definitionId=16
 
 [GitHub_Pages-shield]:              https://img.shields.io/github/actions/workflow/status/celerium/Celerium.FanartTV/pages%2Fpages-build-deployment?style=for-the-badge&label=GitHub%20Pages
 [GitHub_Pages-url]:                 https://github.com/Celerium/Celerium.FanartTV/actions/workflows/pages/pages-build-deployment
