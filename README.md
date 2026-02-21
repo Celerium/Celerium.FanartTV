@@ -54,7 +54,7 @@ FanartTV features a REST API that makes use of common HTTP request methods. In o
 
 Additionally, PowerShell's `verb-noun` nomenclature is respected. Each noun is prefixed with `FanartTV` in an attempt to prevent naming problems.
 
-For example, one might access the /users/ API endpoint by running the following PowerShell command with the appropriate parameters:
+For example, one might access the /movies API endpoint by running the following PowerShell command with the appropriate parameters:
 
 ```posh
 Get-FanartTVMovie -ID 550

@@ -11,9 +11,9 @@ Some functions will handle more than one endpoint and the numbers below show the
 | **Method** | **Endpoint Count**  |
 |------------|---------------------|
 | DELETE     | 3       |
-| GET        | 7          |
+| GET        | 5          |
 | PATCH      | 1        |
-| POST       | 3         |
+| POST       | 2         |
 | PUT        | 1          |
 
 Have a look around and if you would like to contribute please read over the [Contributing guide](https://github.com/Celerium/Celerium.FanartTV/blob/master/.github/CONTRIBUTING.md)

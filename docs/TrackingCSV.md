@@ -28,11 +28,9 @@ I recommend downloading the CSV from the link provided rather then viewing the t
 |Latest  |/{version}/tv/latest        |GET   |Get-FanartTVLatest           |N/A    |Yes     |     |
 |Latest  |/{version}/music/latest     |GET   |Get-FanartTVLatest           |N/A    |Yes     |     |
 |Internal|                            |POST  |Add-FanartTVAPIKey           |N/A    |Yes     |     |
-|Internal|                            |POST  |Request-FanartTVAccessToken  |N/A    |Yes     |     |
 |Internal|                            |POST  |Add-FanartTVBaseURI          |N/A    |Yes     |     |
 |Internal|                            |PUT   |ConvertTo-FanartTVQueryString|N/A    |Yes     |     |
 |Internal|                            |PATCH |Export-FanartTVModuleSettings|N/A    |Yes     |     |
-|Internal|                            |GET   |Get-FanartTVAccessToken      |N/A    |Yes     |     |
 |Internal|                            |GET   |Get-FanartTVAPIKey           |N/A    |Yes     |     |
 |Internal|                            |GET   |Get-FanartTVBaseURI          |N/A    |Yes     |     |
 |Internal|                            |GET   |Get-FanartTVModuleSettings   |N/A    |Yes     |     |
@@ -41,4 +39,3 @@ I recommend downloading the CSV from the link provided rather then viewing the t
 |Internal|                            |DELETE|Remove-FanartTVAPIKey        |N/A    |Yes     |     |
 |Internal|                            |DELETE|Remove-FanartTVBaseURI       |N/A    |Yes     |     |
 |Internal|                            |DELETE|Remove-FanartTVModuleSettings|N/A    |Yes     |     |
-|Internal|                            |GET   |Test-FanartTVAPIKey          |N/A    |Yes     |     |
